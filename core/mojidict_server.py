@@ -335,7 +335,7 @@ class MojiServer:
             'g_os': 'PCWeb',
             'tarId': word.target_id,
             'tarType': word.target_type,
-            'voiceId': 'f000',
+            'voiceId': 'm000',
             "_SessionToken": self.session_token,
             "_ApplicationId": APPLICATION_ID,
             "_InstallationId": INSTALLATION_ID,
